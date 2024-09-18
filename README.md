@@ -1,5 +1,5 @@
 # PythonDataScience
-Conteúdo das aulas de Python na Data Science 
+Conteúdo das aulas de Python na Data Science
 
-## Ferramentas usadas:
+# Ferramentas usadas:
 Jupyter notebook
